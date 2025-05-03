@@ -1,0 +1,2 @@
+API Key AIzaSyArBpUgIFeeDE-HFqxu-O-7QLwyw5vyI2k
+Run app uvicorn chatbot_cocina_gemini:app --reload

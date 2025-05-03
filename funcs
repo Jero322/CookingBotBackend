@@ -1,0 +1,6 @@
+funciones = {
+    "recetas_paso_a_paso": "Da recetas paso a paso según el plato",
+    "recomendar_por_ingredientes": "Sugiere recetas con los ingredientes que el usuario tiene",
+    "tecnicas_de_cocina": "Explica cómo hacer técnicas de cocina",
+    "compartir_recetas": "Permite a los usuarios subir sus recetas a una base de datos"
+}
